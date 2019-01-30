@@ -1,0 +1,2 @@
+
+check_db(): checks is intended database exists
